@@ -6,3 +6,6 @@
 <p>git diff --staged</p>
 <p>git log</p>
 <p>git glog -n</p>
+<p>git rm name_file</p>
+<p>git reset HEAD name_file</p>
+<p>git checkout</p>
