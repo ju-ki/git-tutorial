@@ -3,3 +3,6 @@
 <p>git commit</p>
 <p>git add</p>
 <p>git diff</p>
+<p>git diff --staged</p>
+<p>git log</p>
+<p>git log -n</p>
