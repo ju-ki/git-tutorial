@@ -8,4 +8,5 @@
 <p>git glog -n</p>
 <p>git rm name_file</p>
 <p>git reset HEAD name_file</p>
-<p>git checkout</p>
+<p>git checkout </p>
+<p>git mv old_file new_file</p>
