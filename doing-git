@@ -12,3 +12,4 @@
 <p>git config --global alias.shroted-form orignal</p>
 <p>vim ファイルから抜け出す方法→wq</p>
 <p>git checkout -- .</p>
+<p>git commit --amed</p>
