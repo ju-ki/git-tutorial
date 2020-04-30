@@ -1,12 +1,1 @@
 <h1>git_tutorial</h1>
-<p>git statusコマンドを追記</p>
-<p>git commit</p>
-<p>git add</p>
-<p>git diff</p>
-<p>git diff --staged</p>
-<p>git log</p>
-<p>git glog -n</p>
-<p>git rm name_file</p>
-<p>git reset HEAD name_file</p>
-<p>git checkout </p>
-<p>git mv old_file new_file</p>
