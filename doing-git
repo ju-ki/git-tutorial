@@ -9,3 +9,4 @@
 <p>gir reset HEAD </p>
 <p>git checkout</p>
 <p>git config --global alias.shroted-form orignal</p>
+<p>vim ファイルから抜け出す方法→wq</p>
