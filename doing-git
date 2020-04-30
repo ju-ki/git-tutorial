@@ -6,10 +6,10 @@
 <p>git log -n</p>
 <p>git mv</p>
 <p>git rm</p>
-<p>gir reset HEAD </p>
+<p>git reset HEAD </p>
 <p>ワークツリーには影響を与えてない</p>
 <p>git checkout</p>
 <p>git config --global alias.shroted-form orignal</p>
 <p>vim ファイルから抜け出す方法→wq</p>
 <p>git checkout -- .</p>
-<p>git commit --amed</p>
+<p>git commit --amend</p>
