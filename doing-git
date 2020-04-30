@@ -13,3 +13,4 @@
 <p>vim ファイルから抜け出す方法→wq</p>
 <p>git checkout -- .</p>
 <p>git commit --amend</p>
+<p>confict</p>
