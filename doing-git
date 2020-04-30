@@ -13,4 +13,9 @@
 <p>vim ファイルから抜け出す方法→wq</p>
 <p>git checkout -- .</p>
 <p>git commit --amend</p>
-<p>git merge
+<p>git merge</p>
+<p>git pull</p>
+<p>git merge</p>
+<p>コンフリクト</p>
+<p>confict</p>
+<p>github flow</p>
