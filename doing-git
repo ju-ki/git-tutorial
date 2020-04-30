@@ -8,3 +8,4 @@
 <p>git rm</p>
 <p>gir reset HEAD </p>
 <p>git checkout</p>
+<p>git config --global alias.shroted-form orignal</p>
