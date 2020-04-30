@@ -1,1 +1,10 @@
 <h1>git_tutorial</h1>
+<p>git add</p>
+<p>git diff</p>
+<p>git diff --staged</p>
+<p>git log</p>
+<p>git log -n</p>
+<p>git mv</p>
+<p>git rm</p>
+<p>gir reset HEAD </p>
+<p>git checkout</p>
